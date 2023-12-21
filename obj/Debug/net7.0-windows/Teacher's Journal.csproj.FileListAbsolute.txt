@@ -1,0 +1,23 @@
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\bin\Debug\net7.0-windows\Teacher's Journal.exe
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\bin\Debug\net7.0-windows\Teacher's Journal.deps.json
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\bin\Debug\net7.0-windows\Teacher's Journal.runtimeconfig.json
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\bin\Debug\net7.0-windows\Teacher's Journal.dll
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\bin\Debug\net7.0-windows\Teacher's Journal.pdb
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal_MarkupCompile.cache
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal.g.resources
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal.AssemblyInfoInputs.cache
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal.AssemblyInfo.cs
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal.csproj.CoreCompileInputs.cache
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal.dll
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\refint\Teacher's Journal.dll
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal.pdb
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal.genruntimeconfig.cache
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\ref\Teacher's Journal.dll
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal.csproj.AssemblyReference.cache
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal.csproj.CopyComplete
+C:\Users\UWU\source\repos\Teacher's Journal\Teacher's Journal\obj\Debug\net7.0-windows\Teacher's Journal_MarkupCompile.lref
